@@ -1,0 +1,15 @@
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\regras.json
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\GuardiãoDeComandos.exe
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\GuardiãoDeComandos.deps.json
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\GuardiãoDeComandos.runtimeconfig.json
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\GuardiãoDeComandos.dll
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\bin\Debug\net8.0\GuardiãoDeComandos.pdb
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.AssemblyInfoInputs.cache
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.AssemblyInfo.cs
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.csproj.CoreCompileInputs.cache
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.dll
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\refint\GuardiãoDeComandos.dll
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.pdb
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\GuardiãoDeComandos.genruntimeconfig.cache
+E:\FACULDADE\c#\GS\GuardiãoDeComandos\obj\Debug\net8.0\ref\GuardiãoDeComandos.dll

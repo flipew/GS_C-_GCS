@@ -1,0 +1,18 @@
+[
+    {
+        "IdRegra": "REG_TENSAO_ALTA",
+        "Descricao": "Tensão acima do limite para DISJUNTOR_01",
+        "Tipo": "FAIXA_PARAMETRO",
+        "IdEquipamentoAlvo": "DISJUNTOR_01",
+        "Parametro": "TENSAO",
+        "ValorMax": 230.0,
+        "Severidade": "ALTA"
+    },
+    {
+        "IdRegra": "REG_ORIGEM_BLOQUEADA",
+        "Descricao": "Comandos da origem SCRIPT_MALICIOSO são bloqueados",
+        "Tipo": "ORIGEM_INVALIDA",
+        "Parametro": "SCRIPT_MALICIOSO",
+        "Severidade": "ALTA"
+    }
+]

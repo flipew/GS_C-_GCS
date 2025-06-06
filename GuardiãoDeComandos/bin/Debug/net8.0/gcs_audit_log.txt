@@ -1,0 +1,222 @@
+2025-06-03 22:41:35 [INFO] - --- INÍCIO DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 22:41:35 [INFO] - Tentando carregar regras de: regras.json
+2025-06-03 22:41:35 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-03 22:41:35 [INFO] - 2 regra(s) foram exibidas no console após carregamento.
+2025-06-03 22:41:35 [INFO] - --- FIM DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 22:48:30 [INFO] - --- INÍCIO DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 22:48:30 [INFO] - Tentando carregar regras de: regras.json
+2025-06-03 22:48:30 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-03 22:48:30 [INFO] - 2 regra(s) foram exibidas no console após carregamento.
+2025-06-03 22:48:30 [INFO] - --- FIM DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 22:49:15 [INFO] - --- INÍCIO DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 22:49:15 [INFO] - Tentando carregar regras de: regras.json
+2025-06-03 22:49:15 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-03 22:49:15 [INFO] - 2 regra(s) foram exibidas no console após carregamento.
+2025-06-03 22:49:15 [INFO] - --- FIM DO TESTE DE CARREGAMENTO DE REGRAS ---
+2025-06-03 23:51:01 [INFO] - --- INÍCIO DO TESTE DE AUTENTICAÇÃO ---
+2025-06-03 23:51:01 [INFO] - Tentativa de login para o usuário: admin
+2025-06-03 23:51:01 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-03 23:51:01 [INFO] - Teste: Login bem-sucedido para admin.
+2025-06-03 23:51:01 [INFO] - Tentativa de login para o usuário: admin
+2025-06-03 23:51:01 [ALERTA] - Tentativa de login falhou para o usuário 'admin': Senha incorreta.
+2025-06-03 23:51:01 [INFO] - Teste: Falha no login (admin/errada) - Comportamento esperado.
+2025-06-03 23:51:01 [INFO] - Tentativa de login para o usuário: ninguem
+2025-06-03 23:51:01 [ALERTA] - Tentativa de login falhou: Usuário 'ninguem' não encontrado.
+2025-06-03 23:51:01 [INFO] - Teste: Falha no login (ninguem/senha) - Comportamento esperado.
+2025-06-03 23:51:01 [INFO] - --- FIM DO TESTE DE AUTENTICAÇÃO ---
+2025-06-04 00:07:47 [INFO] - Aplicação GCS iniciada.
+2025-06-04 00:07:47 [INFO] - Tentando carregar regras de: regras.json
+2025-06-04 00:07:48 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-04 00:07:54 [INFO] - Tentativa de login para o usuário: alo
+2025-06-04 00:07:54 [ALERTA] - Tentativa de login falhou: Usuário 'alo' não encontrado.
+2025-06-04 00:07:57 [INFO] - Tentativa de login para o usuário: alo
+2025-06-04 00:07:57 [ALERTA] - Tentativa de login falhou: Usuário 'alo' não encontrado.
+2025-06-04 00:07:59 [INFO] - Tentativa de login para o usuário: os
+2025-06-04 00:07:59 [ALERTA] - Tentativa de login falhou: Usuário 'os' não encontrado.
+2025-06-04 00:08:06 [INFO] - Tentativa de login para o usuário: sair
+2025-06-04 00:08:06 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-04 00:08:06 [INFO] - Usuário optou por sair na tela de login.
+2025-06-04 00:08:39 [INFO] - Aplicação GCS iniciada.
+2025-06-04 00:08:39 [INFO] - Tentando carregar regras de: regras.json
+2025-06-04 00:08:39 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-04 00:08:47 [INFO] - Tentativa de login para o usuário: admin123
+2025-06-04 00:08:47 [ALERTA] - Tentativa de login falhou: Usuário 'admin123' não encontrado.
+2025-06-04 00:08:54 [INFO] - Tentativa de login para o usuário: sair
+2025-06-04 00:08:54 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-04 00:08:54 [INFO] - Usuário optou por sair na tela de login.
+2025-06-04 00:10:32 [INFO] - Aplicação GCS iniciada.
+2025-06-04 00:10:32 [INFO] - Tentando carregar regras de: regras.json
+2025-06-04 00:10:32 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-04 00:11:12 [INFO] - Tentativa de login para o usuário: am
+2025-06-04 00:11:12 [ALERTA] - Tentativa de login falhou: Usuário 'am' não encontrado.
+2025-06-04 00:11:14 [INFO] - Tentativa de login para o usuário: sair
+2025-06-04 00:11:14 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-04 00:11:14 [INFO] - Usuário optou por sair na tela de login.
+2025-06-04 00:12:35 [INFO] - Aplicação GCS iniciada.
+2025-06-04 00:12:35 [INFO] - Tentando carregar regras de: regras.json
+2025-06-04 00:12:35 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-04 00:12:45 [INFO] - Tentativa de login para o usuário: NomeUsuario
+2025-06-04 00:12:45 [ALERTA] - Tentativa de login falhou: Usuário 'NomeUsuario' não encontrado.
+2025-06-04 00:13:22 [INFO] - Tentativa de login para o usuário: sair
+2025-06-04 00:13:22 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-04 00:13:22 [INFO] - Usuário optou por sair na tela de login.
+2025-06-04 00:13:37 [INFO] - Aplicação GCS iniciada.
+2025-06-04 00:13:37 [INFO] - Tentando carregar regras de: regras.json
+2025-06-04 00:13:37 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-04 00:13:43 [INFO] - Tentativa de login para o usuário: admin
+2025-06-04 00:13:43 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-04 00:13:43 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-04 00:14:11 [ERRO] - Não foi possível parsear o comando: 3
+2025-06-04 00:14:17 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-04 00:14:25 [INFO] - Usuário 'admin' deslogou.
+2025-06-04 00:14:25 [INFO] - Aplicação GCS finalizada.
+2025-06-05 21:01:10 [INFO] - Aplicação GCS iniciada.
+2025-06-05 21:01:10 [INFO] - Tentando carregar regras de: regras.json
+2025-06-05 21:01:10 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-05 21:01:16 [INFO] - Tentativa de login para o usuário: admin
+2025-06-05 21:01:16 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-05 21:01:16 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-05 21:01:37 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=220 PRIORIDADE=ALTA
+2025-06-05 21:01:37 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=220 PRIORIDADE=ALTA' é considerado VALIDO.
+2025-06-05 21:02:16 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-05 21:02:16 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' é considerado VALIDO.
+2025-06-05 21:03:21 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=250 PRIORIDADE=ALTA
+2025-06-05 21:03:21 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=250 PRIORIDADE=ALTA' é considerado VALIDO.
+2025-06-05 21:03:32 [INFO] - Usuário 'admin' deslogou.
+2025-06-05 21:03:32 [INFO] - Aplicação GCS finalizada.
+2025-06-05 21:06:44 [INFO] - Aplicação GCS iniciada.
+2025-06-05 21:06:44 [INFO] - Tentando carregar regras de: regras.json
+2025-06-05 21:06:44 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-05 21:07:53 [INFO] - Tentativa de login para o usuário: sair
+2025-06-05 21:07:53 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-05 21:07:53 [INFO] - Usuário optou por sair na tela de login.
+2025-06-05 21:09:54 [INFO] - Aplicação GCS iniciada.
+2025-06-05 21:09:54 [INFO] - Tentando carregar regras de: regras.json
+2025-06-05 21:09:54 [ERRO] - Erro de formato JSON ao ler 'regras.json'. Detalhes: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Detalhes da Exceção: '/' is an invalid start of a property name. Expected a '"'. Path: $[0] | LineNumber: 6 | BytePositionInLine: 31.
+	Exceção Interna: '/' is an invalid start of a property name. Expected a '"'. LineNumber: 6 | BytePositionInLine: 31.
+2025-06-05 21:10:01 [INFO] - Tentativa de login para o usuário: sair
+2025-06-05 21:10:01 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-05 21:10:01 [INFO] - Usuário optou por sair na tela de login.
+2025-06-05 21:13:14 [INFO] - Aplicação GCS iniciada.
+2025-06-05 21:13:14 [INFO] - Tentando carregar regras de: regras.json
+2025-06-05 21:13:15 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-05 21:13:24 [INFO] - Tentativa de login para o usuário: admin
+2025-06-05 21:13:24 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-05 21:13:24 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-05 21:13:33 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=220 PRIORIDADE=ALTA
+2025-06-05 21:13:33 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 LIGAR TENSAO=220 PRIORIDADE=ALTA' é considerado VALIDO.
+2025-06-05 21:14:19 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-05 21:14:19 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-05 21:14:19 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-05 21:14:32 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-05 21:15:11 [INFO] - Iniciando validação para o comando: SCRIPT_MALICIOSO ALGUM_EQUIPO FAZER_ALGO
+2025-06-05 21:15:11 [ALERTA] - Regra ID REG_TENSAO_ALTA: Parâmetro 'TENSAO' esperado pela regra não encontrado ou inválido no comando 'SCRIPT_MALICIOSO ALGUM_EQUIPO FAZER_ALGO'.
+2025-06-05 21:15:11 [ALERTA] - Comando 'SCRIPT_MALICIOSO ALGUM_EQUIPO FAZER_ALGO' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-05 21:15:11 [ALERTA] - Comando 'SCRIPT_MALICIOSO ALGUM_EQUIPO FAZER_ALGO' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-05 21:15:21 [INFO] - Usuário 'admin' deslogou.
+2025-06-05 21:15:21 [INFO] - Aplicação GCS finalizada.
+2025-06-06 16:44:43 [INFO] - Aplicação GCS iniciada.
+2025-06-06 16:44:43 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 16:44:43 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 16:44:50 [INFO] - Tentativa de login para o usuário: sair
+2025-06-06 16:44:50 [ALERTA] - Tentativa de login falhou: Usuário 'sair' não encontrado.
+2025-06-06 16:44:50 [INFO] - Usuário optou por sair na tela de login.
+2025-06-06 17:16:18 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:16:18 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:16:18 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:16:34 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:16:34 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:16:34 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:16:52 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:16:52 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:17:11 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:17:11 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-06 17:17:11 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-06 17:17:23 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-06 17:17:38 [ALERTA] - Usuário 'admin' inseriu opção inválida no menu: SCRIPT_MALICIOSO ALGUM_EQUIPO FAZER_ALGO
+2025-06-06 17:17:57 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:17:57 [INFO] - Aplicação GCS finalizada.
+2025-06-06 17:25:43 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:25:43 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:25:43 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:25:54 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:25:54 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:25:54 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:26:14 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:26:14 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:26:26 [ALERTA] - Usuário 'admin' inseriu opção inválida no menu: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:26:36 [ALERTA] - Usuário 'admin' inseriu opção inválida no menu: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=2250
+2025-06-06 17:26:42 [ALERTA] - Usuário 'admin' inseriu opção inválida no menu: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=2250
+2025-06-06 17:26:44 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:26:44 [INFO] - Aplicação GCS finalizada.
+2025-06-06 17:26:53 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:26:53 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:26:53 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:26:58 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:26:58 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:26:58 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:27:04 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:27:04 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:27:09 [ALERTA] - Usuário 'admin' inseriu opção inválida no menu: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:27:33 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:27:33 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-06 17:27:33 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-06 17:27:36 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:27:36 [INFO] - Aplicação GCS finalizada.
+2025-06-06 17:32:29 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:32:29 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:32:30 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:32:40 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:32:40 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:32:40 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:32:54 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:32:54 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:33:07 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:33:07 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-06 17:33:07 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-06 17:33:17 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-06 17:33:32 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:33:32 [INFO] - Aplicação GCS finalizada.
+2025-06-06 17:36:40 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:36:40 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:36:40 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:36:48 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:36:48 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:36:48 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:37:07 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:37:07 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:37:20 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:37:20 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-06 17:37:20 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-06 17:37:36 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-06 17:37:59 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:37:59 [INFO] - Aplicação GCS finalizada.
+2025-06-06 17:42:30 [INFO] - Aplicação GCS iniciada.
+2025-06-06 17:42:30 [INFO] - Tentando carregar regras de: regras.json
+2025-06-06 17:42:30 [INFO] - 2 regra(s) carregada(s) com sucesso de regras.json.
+2025-06-06 17:42:40 [INFO] - Tentativa de login para o usuário: admin
+2025-06-06 17:42:40 [INFO] - Usuário 'admin' autenticado com sucesso.
+2025-06-06 17:42:40 [INFO] - Usuário 'admin' logado com sucesso.
+2025-06-06 17:43:07 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220
+2025-06-06 17:43:07 [INFO] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=220' é considerado VALIDO.
+2025-06-06 17:43:27 [INFO] - Iniciando validação para o comando: CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250
+2025-06-06 17:43:27 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' VIOLOU a regra ID REG_TENSAO_ALTA (Tensão acima do limite para DISJUNTOR_01).
+2025-06-06 17:43:27 [ALERTA] - Comando 'CONSOLE_OP DISJUNTOR_01 AJUSTAR TENSAO=250' finalizou com status INVALIDO devido a 1 violação(ões).
+2025-06-06 17:43:40 [INFO] - Usuário 'admin' visualizou estatísticas.
+2025-06-06 17:44:07 [INFO] - Usuário 'admin' deslogou.
+2025-06-06 17:44:07 [INFO] - Aplicação GCS finalizada.
